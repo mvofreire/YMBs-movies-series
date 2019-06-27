@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomePage Wrapper must match snapshot  1`] = `
+<HomeContextProvider>
+  <withRouter() />
+  <Divider />
+  <ContextConsumer>
+    <Component />
+  </ContextConsumer>
+</HomeContextProvider>
+`;
